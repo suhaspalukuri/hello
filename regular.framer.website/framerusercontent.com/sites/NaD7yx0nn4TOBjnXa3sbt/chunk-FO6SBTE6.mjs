@@ -1,0 +1,2 @@
+function e(t,a){return{description:"Regular is a minimalist Framer template created with creatives, freelancers, and design studios in mind. Featuring thoughtful use of white space and typography, it\u2019s designed to let your work speak for itself.",favicon:"https://framerusercontent.com/assets/yL7yh1JiI4znLvlntsoo5BZ0rI.png",robots:"max-image-preview:large",socialImage:"https://framerusercontent.com/assets/YHHM9LO57hwHxV3xFWO6AMqp4HY.webp",title:"Regular \u2014 Minimalist Portfolio Template"}}export{e as a};
+//# sourceMappingURL=chunk-FO6SBTE6.mjs.map
